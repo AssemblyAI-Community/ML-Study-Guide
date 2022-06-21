@@ -2,7 +2,7 @@
 
 This is a minimal study guide to get started with Machine Learning.
 
-Watch the video on [YouTube](https://youtube.com/shorts/-YBg78sBu8c)
+Watch the video on [YouTube](https://youtube.com/shorts/-YBg78sBu8c).
 
 ## 1. Learn Python
 
