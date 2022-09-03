@@ -25,7 +25,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
 * Pandas: [1h Pandas Crash Course](https://youtu.be/vmEHCJofslg)
 * Matplotlib: [1h Matplotlib Crash Course Course](https://youtu.be/3Xc3CA655Y4)
 
-(Scikit-Learn, and TensorFlow are taught in step 4. PyTorch is optional, maybe in step 7)
+(Scikit-Learn and TensorFlow are taught in step 4. PyTorch is optional, maybe in step 7)
 
 ## 4. Machine Learning Courses
 
