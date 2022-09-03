@@ -25,6 +25,8 @@ Learn some math basics! Focus only on these topics, then come back later in case
 * Pandas: [1h Pandas Crash Course](https://youtu.be/vmEHCJofslg)
 * Matplotlib: [1h Matplotlib Crash Course Course](https://youtu.be/3Xc3CA655Y4)
 
+(Scikit-Learn, and TensorFlow are taught in step 4. PyTorch is optional, maybe in step 7)
+
 ## 4. Machine Learning Courses
 
 * [Machine Learning Course Andrew Ng| Coursera](https://www.coursera.org/specializations/machine-learning)
@@ -33,7 +35,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
 ## 5. Hands-on Data Preparation
 
 * [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-* [Kaggle Intermediate Machine Learning](hhttps://www.kaggle.com/learn/intermediate-machine-learning)
+* [Kaggle Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 ## 6. Practise!
 
