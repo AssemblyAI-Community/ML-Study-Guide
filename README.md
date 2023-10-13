@@ -18,6 +18,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
 
 * [4h Beginner Course](https://youtu.be/rfscVS0vtbw)
 * [6h Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo)
+* [4h Beginner to Intermediate interactive Python Course](https://scrimba.com/learn/python)
 
 ## 3. Learn The ML Tech Stack:
 
@@ -46,9 +47,12 @@ Solve Challenges and build your own projects with datasets from [Kaggle.com](Kag
 * Specialize in one field (e.g. Computer Vision, NLP, etc.) 
 * Look at requirements in corresponding job descriptions and learn those skills
 * Tip: Create a blog and share tutorials and what you have learned!
+* Tip #2: [Learn Markdown by making a Blog](https://scrimba.com/learn/markdownblog) 
 
 ## Books
 If you prefer learning with books, these are great recommendations:
 
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
+* [Hands-On Data Science and Python Machine Learning](https://www.packtpub.com/product/hands-on-data-science-and-python-machine-learning/9781787280748) 
+
