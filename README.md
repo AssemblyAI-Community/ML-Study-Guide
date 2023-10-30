@@ -1,3 +1,5 @@
+Aniket pandey
+new delhi
 # How to get started with ML
 
 This my recommended study guide to get started with Machine Learning.
