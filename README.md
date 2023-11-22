@@ -13,7 +13,9 @@ Learn some math basics! Focus only on these topics, then come back later in case
  * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
  * [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
  * [Optional: 3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
- 
+ * mathematicalmonk - YouTube
+ * https://gwthomas.github.io/docs/math4ml.pdf
+ * http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html
 ## 2. Learn Python
 
 * [4h Beginner Course](https://youtu.be/rfscVS0vtbw)
@@ -31,7 +33,8 @@ Learn some math basics! Focus only on these topics, then come back later in case
 
 * [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (3 Courses)
 * Optional: [Machine Learning From Scratch](https://youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
-
+* optional: https://www.kaggle.com/learn/intro-to-machine-learning . - Learn the core ideas in machine learning, and build your first models. - Free
+* optinal: https://youtu.be/fw6NMQrYc6w -Get your models online and show them to the world- (free)
 ## 5. Hands-on Data Preparation
 
 * [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
