@@ -8,6 +8,7 @@ Watch the video on [YouTube](https://youtu.be/wtolixa9XTg).
 
 Learn some math basics! Focus only on these topics, then come back later in case you need to learn more.
 
+ * [Khan Academy - Ap/Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
  * [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
  * [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
  * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
