@@ -39,7 +39,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
 
 ## 6. Practise!
 
-Solve Challenges and build your own projects with datasets from [Kaggle.com](Kaggle.com).
+Solve Challenges and build your own projects with datasets from [Kaggle.com](https://Kaggle.com).
 
 ## 7. Specialize & Create Blog
 
