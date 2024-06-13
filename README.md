@@ -30,6 +30,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
 ## 4. Machine Learning Courses
 
 * [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (3 Courses)
+* [Data Science and Machine Learning | Scaler](https://www.scaler.com/courses/data-science-machine-learning-course/)
 * Optional: [Machine Learning From Scratch](https://youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 
 ## 5. Hands-on Data Preparation
